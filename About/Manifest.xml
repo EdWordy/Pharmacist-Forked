@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <version>3.0</version>
-  <manifestUri>https://github.com/EdWordy/Pharmacist-Forked/edit/main/About/Manifest.xml</manifestUri>
+  <manifestUri>https://raw.githubusercontent.com/EdWordy/Pharmacist-Forked/main/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/EdWordy/Pharmacist-Forked/releases/tag/3.0</downloadUri>
 </Manifest>
