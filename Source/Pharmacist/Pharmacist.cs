@@ -9,7 +9,7 @@ namespace Pharmacist
         public Pharmacist( ModContentPack content ) : base( content )
         {
 #if DEBUG
-            Harmony.DEBUG = true;
+            Harmony.DEBUG = false;
 #endif
             var harmony = new Harmony("fluffy.pharmacist" );
             harmony.PatchAll(Assembly.GetExecutingAssembly());
